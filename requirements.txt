@@ -1,0 +1,8 @@
+python==3.10
+numpy
+xarray
+cartopy
+matplotlib
+siphon
+jupyterlab
+
