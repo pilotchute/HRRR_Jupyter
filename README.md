@@ -1,5 +1,5 @@
 # Click this button to run the charts
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pilotchute/HRRR_Jupyter/HEAD?HRRR_Charting.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pilotchute/HRRR_Jupyter/HEAD?urlpath=lab/tree/HRRR_Charting.ipynb)
 
 # HRRR_Jupyter
 
