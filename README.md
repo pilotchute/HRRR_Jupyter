@@ -3,7 +3,7 @@
 
 # HRRR_Jupyter
 
-This is project to allow anyone to produce charts from NCEP's 2.5km HRRR model using a Jupyter Notebook.
+This is a project to allow anyone to produce charts from NCEP's 2.5km HRRR model using a Jupyter Notebook.
 
 ## Install 
 run `./setup_hrrr.sh` 
